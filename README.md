@@ -50,6 +50,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wasiq2006/Wasiq2006/output/pacman-contribution-graph.svg">
 </picture>
 
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
 ###
 
 <div>
