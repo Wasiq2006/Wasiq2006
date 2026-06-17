@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Hey! I'm Wasiq, a cybersecurity enthusiast and ethical hacker in training.<br><br>Right now I’m doing BSCS and will graduate by 2029. I’m deeply passionate about hacking, computer systems, and building a career in cybersecurity.<br><br>My goal is to specialize in Red Teaming, penetration testing, and advanced cybersecurity research. Along this journey, I’m learning programming, building projects, and sharpening my problem-solving skills</p>
+<p align="center">I Like Expolioting Systems</p>
 
 ###
 
