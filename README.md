@@ -1,16 +1,25 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO%2C+WELCOME+TO+MY+GITHUB.;I+LIKE+EXPLOITING+SYSTEMS.)](https://git.io/typing-svg)
+
+###
+<a href="https://github.com/asharbinkhalil/">
+  <img align="right" width="250" src="https://media.tenor.com/S0UZA8gkgkgAAAAM/laptop-hacking.gif">
+</a>
+
+### ABOUT ME
+
+- Cybersecurity & Cloud Engineer
+- Love to Break Systems & Maintain Security
+- Love Linux
+- Always Claudemaxxing
+- Read My Blogs at [Medium](https://medium.com/@wasiqmansoor)
+- Contact: wasiqmansoor2006@gmail.com
+- Feel Free To Contribute :0
 
 ###
 
-<h1 align="center">Hey Wanna Contribute... Feel Free</h1>
+---
 
-###
-
-<p align="center">I Like Expolioting Systems</p>
-
-###
+### TOOLS & LANGUAGES
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -19,43 +28,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://yt3.googleusercontent.com/04wBp_VfiG9CNvo7qWTKTehmc87-0br_OtE51434Y0FYPeeg67bXFmeqf9ZPHakGhAaVRO4w=s900-c-k-c0x00ffffff-no-rj" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/250px-Ghidra_logo.svg.png" width="50"/>
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kali-linux.webp" width="55"/>
+
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BWKO5vogiSFWk%2FLDZPAPn8w%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="wasiqmnasoor69@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wasiq2006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasiq2006&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wasiq2006/Wasiq2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wasiq2006/Wasiq2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wasiq2006/Wasiq2006/output/pacman-contribution-graph.svg">
-</picture>
-
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
