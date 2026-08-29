@@ -10,6 +10,7 @@
 - Cybersecurity & Cloud Engineer
 - Love to Break Systems & Maintain Security
 - Love Linux
+- Love To Guide Peeps
 - Always Claudemaxxing
 - Read My Blogs at [Medium](https://medium.com/@wasiqmansoor)
 - Contact: wasiqmansoor2006@gmail.com
