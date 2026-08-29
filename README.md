@@ -2,7 +2,7 @@
 
 ###
 <a href="https://github.com/asharbinkhalil/">
-  <img align="right" width="250" src="https://media.tenor.com/S0UZA8gkgkgAAAAM/laptop-hacking.gif">
+  <img align="right" width="240" src="https://media.tenor.com/S0UZA8gkgkgAAAAM/laptop-hacking.gif">
 </a>
 
 ### ABOUT ME
