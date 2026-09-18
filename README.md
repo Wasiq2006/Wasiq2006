@@ -7,7 +7,7 @@
 
 ### ABOUT ME
 
-- Cybersecurity & Cloud Engineer
+- Cybersecurity Engineer
 - Love to Break Systems & Maintain Security
 - Love Linux
 - Love To Guide Peeps
