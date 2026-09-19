@@ -45,6 +45,6 @@
 ### Badges
 <img width="150px" height="200px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" />
 
-### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+### Random Dev Quote & Stats
 
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" height="240" alt="Dev Quote" /> <img align="right" src="https://streak-stats.demolab.com?user=Wasiq2006&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
