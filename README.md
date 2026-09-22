@@ -42,8 +42,6 @@
 
 </div>
 
-### Badges
-<img width="150px" height="200px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" />
 
 ### Random Dev Quote & Stats
 
