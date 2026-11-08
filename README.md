@@ -12,7 +12,7 @@
 - Love Linux
 - Love To Guide Peeps
 - Always Claudemaxxing
-- Web Development to Kill time 
+- Slowly Shifting to Artificial Intelligence
 - Read My Blogs at [Medium](https://medium.com/@wasiqmansoor)
 - Contact: wasiqmansoor2006@gmail.com
 - Feel Free To Contribute :0
